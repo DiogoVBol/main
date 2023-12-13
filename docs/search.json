@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Diogo Vieri Bolzan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Diogo Vieri Bolzan\nEstudante da Universidade Federal do Rio Grande do Sul no curso de Bacharelado em Estatística"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Trabalho de Estatística Descritiva\nBanco De Dados\nEm nosso trabalho usamos o banco de dados do site kaggle chamado “Global Country Information Dataset 2023”. Este banco de dados contem observações (linhas) de todos os 195 países do mundo, com 34 variaveis (colunas).\nÁs variaveis (usadas) estão listadas abaixo:\nCountry: Nome do país.\nInfant Mortality: Número de óbitos por 1.000 nascidos vivos antes de completar um ano de idade.\nLife Expectancy: Número médio de anos que se espera que um recém-nascido fique vivo.\nObjetivo de análise:\nVerificar se há relação entre a expectativa de vida de um país e ao índice de mortalidade infantil."
   }
 ]

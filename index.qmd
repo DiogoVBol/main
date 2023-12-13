@@ -1,11 +1,22 @@
 ---
 title: "Diogo Vieri Bolzan"
+about: 
+  template: trestles
+  image: foto.jpeg
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/diogo-vieri-bolzan-714b7a27b/
+    - icon: github
+      text: GitHub
+      href: https://github.com/DiogoVBol
 ---
 
-This is a Quarto website.
+Diogo Vieri Bolzan
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Estudante da Universidade Federal do Rio Grande do Sul no curso de Bacharelado em Estatística
 
-```{r}
-1 + 1
+```{r, echo=FALSE}
+
+
 ```
